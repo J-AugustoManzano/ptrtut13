@@ -1,12 +1,16 @@
-# A TUTORIAL ON POINTERS AND ARRAYS IN C
+# UM TUTORIAL SOBRE PONTEiROS E ARRANJOS EM C
 
-This is A TUTORIAL ON POINTERS AND ARRAYS IN C Version 1.3 by Ted Jensen. I am putting this up on my Github account as it appears that Ted has taken down his website where this tutorial was located. I find this tutorial on pointers in C to be one of the best out there and well worth preserving. Since Ted also put this in the Public Domain I plan on working on the tutorial to remove any links to his defunct website and point them to this repository. I also plan on cleaning up the tutorial a bit to remove a few 1990's references (when this turtorial was written) and if needed, update any code to the C11 standard.
+Esta é a versão em português (ainda em fase de tradução) do material "UM TUTORIAL SOBRE PONTEIROS E ARRANJOS EM C" em sua versão 1.3, escrito por Ted Jensen. O site do autor está fora do ar e seu e-mail indicado no tutorial não está mais ativo. Encontrei esta versão disponibilizada no Github por Jay Flaherty (https://github.com/jflaherty/ptrtut13). Assim como Jay Flaherty eu também considero este tutorial sobre ponteiros em C um dos melhores que existem e que vale a pena preservar. Neste sentido, decidi traduzir o artigo e fazer pequenas adaptações para a língua portuguesa.
 
-The first commit was exactly as ver. 1.2 of his tutorial on his website before it was deleted.
-*   [Download](https://github.com/jflaherty/ptrtut13/archive/v1.2.zip) it as a set of HTML/PDF pages compressed to a ZIP File.
-*   [Download](https://github.com/jflaherty/ptrtut13/archive/v1.2.tar.gz) it as a set of HTML/PDF pages compressed to a GZIP archive.
+Como Ted colocou esse material em Domínio Público tomei a liberdade de providenciar a adaptação para a língua portuguesa. Diferentemente de Jay Flaherty que pretende trabalhar no tutorial para remover quaisquer links que apontam para o site de Ted Jensen desativando-os e apontando-os para seu repositório Github indicado no parágrafo anterior vou manter na tradução todos os links originais indexando-os via notas de rodapé a este repositório.
 
-This is ver 1.3 and available to browse online.
+Jay Flaherty pretende também limpar um pouco o tutorial removendo algumas referências dos anos 1990, quando este tutorial foi escrito e, se necessário, atualizar qualquer código para o padrão C11. Eu, em particular manterei os códigos originais do artigo, mas deixarei espaço para atender a proposta de Jay Flaherty.
+
+O primeiro commit no repositório de Jay Flaherty é exatamente a versão 1.2 do tutorial que estava no site de Ted Jensen antes de ser excluído. Este material é indicado a partir de:
+*   [Download](https://github.com/jflaherty/ptrtut13/archive/v1.2.zip) - consiste em um conjunto de páginas HTML/PDF comprimidas em um arquivo ZIP.
+*   [Download](https://github.com/jflaherty/ptrtut13/archive/v1.2.tar.gz) - consiste em um conjunto de páginas HTML/PDF comprimidas em um arquivo GZIP.
+
+Esta é a versão 1.3 disponibilizada por Jay Flaherty para navegação online.
 *   You can [Read it Online](md/pointers.md)
-*   [Download](https://github.com/jflaherty/ptrtut13/archive/v1.3.zip) it as a set of HTML/MD/PDF pages compressed to a ZIP File.
-*   [Download](https://github.com/jflaherty/ptrtut13/archive/v1.3.tar.gz) it as a set of HTML/MD/PDF pages compressed to a GZIP archive. 
+*   [Download](https://github.com/jflaherty/ptrtut13/archive/v1.3.zip) - consiste em um conjunto de páginas HTML/MD/PDF comprimidas em um arquivo ZIP.
+*   [Download](https://github.com/jflaherty/ptrtut13/archive/v1.3.tar.gz) - consiste em um conjunto de páginas HTML/MD/PDF comprimidas em um arquivo GZIP. 
