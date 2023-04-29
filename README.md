@@ -1,4 +1,4 @@
-# UM TUTORIAL SOBRE PONTEiROS E ARRANJOS EM C
+# UM TUTORIAL SOBRE PONTEIROS E ARRANJOS EM C
 
 Esta é a versão em português (ainda em fase de tradução) do material "UM TUTORIAL SOBRE PONTEIROS E ARRANJOS EM C" em sua versão 1.3, escrito por Ted Jensen. O site do autor está fora do ar e seu e-mail indicado no tutorial não está mais ativo. Encontrei esta versão disponibilizada no Github de Jay Flaherty (https://github.com/jflaherty/ptrtut13). Assim como Jay Flaherty eu também considero este tutorial sobre ponteiros em C um dos melhores que existem e que vale a pena preservar. Neste sentido, decidi traduzir o artigo e fazer pequenas adaptações para a língua portuguesa.
 
