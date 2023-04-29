@@ -11,6 +11,6 @@ O primeiro commit no repositório de Jay Flaherty é exatamente a versão 1.2 do
 *   [Download](https://github.com/jflaherty/ptrtut13/archive/v1.2.tar.gz) - consiste em um conjunto de páginas HTML/PDF comprimidas em um arquivo GZIP.
 
 Esta é a versão 1.3 disponibilizada por Jay Flaherty para navegação online.
-*   Você pode também [Ler isto em modo online](md/pointers.md) no repositório de Jay Flaherty.
+*   Você pode também [ler isto em modo online](md/pointers.md) em idioma inglês no repositório de Jay Flaherty.
 *   [Download](https://github.com/jflaherty/ptrtut13/archive/v1.3.zip) - consiste em um conjunto de páginas HTML/MD/PDF comprimidas em um arquivo ZIP.
 *   [Download](https://github.com/jflaherty/ptrtut13/archive/v1.3.tar.gz) - consiste em um conjunto de páginas HTML/MD/PDF comprimidas em um arquivo GZIP. 
