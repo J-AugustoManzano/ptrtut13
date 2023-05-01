@@ -1,4 +1,4 @@
-/* Programa 'bubble_6.c' extraído de PTRTUT10.TXT - 13/06/1997 */
+/* Programa 'bubble_6.c' extraido de PTRTUT10.TXT - 13/06/1997 */
 /*                       adaptado por AM-42       - 02/05/2023 */
 /*                                          youtube.com/@AM-42 */
 
