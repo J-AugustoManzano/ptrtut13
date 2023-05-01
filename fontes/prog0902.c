@@ -1,4 +1,4 @@
-/* Programa 9.2 extraído de PTRTUT10.TXT - 13/06/1997 */
+/* Programa 9.2 extraido de PTRTUT10.TXT - 13/06/1997 */
 /*              adaptado por AM-42       - 02/05/2023 */
 /*                                 youtube.com/@AM-42 */
 
