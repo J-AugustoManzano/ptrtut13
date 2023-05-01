@@ -17,8 +17,5 @@ Aqui está a versão 1.3 (há também documentos indicados como versão 1.4 e 1.
 *   [Download](https://github.com/jflaherty/ptrtut13/archive/v1.3.zip) - consiste em um conjunto de páginas HTML/MD/PDF comprimidas em um arquivo ZIP.
 *   [Download](https://github.com/jflaherty/ptrtut13/archive/v1.3.tar.gz) - consiste em um conjunto de páginas HTML/MD/PDF comprimidas em um arquivo GZIP. 
 
-Esta é a versão 1.6 disponibilizada por Augusto Manzano:
-*   Em desenvolvimento (lançamento em breve). 
-
 Aqui você pode assisitr a uma aula sobre ponteiros em C++
 *   [Vídeo](https://youtu.be/LGT5VZrWr7s) - Ponteiros em C++. 
