@@ -21,4 +21,4 @@ Esta é a versão 1.6 disponibilizada por Augusto Manzano:
 *   Em desenvolvimento (lançamento em breve). 
 
 Aqui você pode assisitr a uma aula sobre ponteiros em C++
-*   Vídeo](https://youtu.be/LGT5VZrWr7s) - Ponteiros em C++. 
+*   [Vídeo](https://youtu.be/LGT5VZrWr7s) - Ponteiros em C++. 
