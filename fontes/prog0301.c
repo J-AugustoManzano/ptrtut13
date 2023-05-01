@@ -1,4 +1,4 @@
-/* Programa 3.1 extraído de PTRTUT10.TXT - 13/06/1997 */
+/* Programa 3.1 extraido de PTRTUT10.TXT - 13/06/1997 */
 /*              adaptado por AM-42       - 28/04/2023 */
 /*                                 youtube.com/@AM-42 */
 
